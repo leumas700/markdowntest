@@ -1,4 +1,11 @@
 # Header 1
 ## Header 2
 
-** Bold Text **
+- A
+- B
+- C
+
+**Bold**
+
+*Italic*
+
